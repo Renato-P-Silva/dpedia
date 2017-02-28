@@ -1,0 +1,39 @@
+.triple > div {
+	float:left;
+	margin: 3px;
+	padding:8px;
+	border:solid 2px; 
+	border-radius:15px;
+	width:30%;
+
+}
+
+.triple {
+	float: left;
+	margin-top:2px;
+	width:100%;
+}
+
+.subject{
+	background-color:orange;
+}
+
+.predicate {
+	background-color:grey;
+}
+
+.uri, .uri a {
+	color: white;
+	background-color:blue;
+}
+
+.literal {
+	color: black;
+	background-color:none;
+}
+
+#rdfURI {
+	width:30%;
+}
+
+
